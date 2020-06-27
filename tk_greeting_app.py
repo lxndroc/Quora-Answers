@@ -1,5 +1,6 @@
 # Repeated greeting example
 # @lxndroc 2020
+# https://www.quora.com/What-are-the-best-choices-for-introductory-GUIs-in-Python/answer/Alexandros-Xafopoulos
 
 import tkinter as tk
 
